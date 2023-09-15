@@ -1,5 +1,5 @@
 <h1 align="center">"Contributing to the world, one line of code at a time"</h1>
-#### Hello there 👋
+<p align="center">Hello there 👋</p>
 
 <!--
 **moshe002/moshe002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
