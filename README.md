@@ -1,5 +1,4 @@
-<div align="center">
-# "Contributing to the world, one line of code at a time"
+<h1 align="center">"Contributing to the world, one line of code at a time"</h1>
 #### Hello there 👋
 
 <!--
