@@ -1,4 +1,4 @@
-<h1 align="center">"Contributing to the world, one line of `code` at a time"</h1>
+<h1 align="center">"Contributing to the world, one line of <code>code</code> at a time"</h1>
 
 
 <h4 align="center">Hey!👋</h4>
