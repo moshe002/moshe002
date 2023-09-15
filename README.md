@@ -1,4 +1,7 @@
-### Hi there 👋
+### "Contributing to the world, one line of code at a time"
+#
+#
+# Hi there 👋
 
 <!--
 **moshe002/moshe002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
