@@ -1,7 +1,7 @@
-<h1 align="center">"Contributing to the world, one line of code at a time"</h1>
+<h1 align="center">"Contributing to the world, one line of `code` at a time"</h1>
 
 
-<p align="center">Hello there 👋</p>
+<h4 align="center">Hey!👋</h4>
 
 <!--
 **moshe002/moshe002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
