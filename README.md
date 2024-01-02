@@ -2,7 +2,7 @@
 
 
 <h3 align="center">Hey!👋</h3>
-[Visit my Portfolio Site](https://portfolio-moses.netlify.app/) 
+<a href="https://portfolio-moses.netlify.app/" target="_blank">Visit my Portfolio Site</a>
 
 <!--
 **moshe002/moshe002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
