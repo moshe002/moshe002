@@ -1,9 +1,9 @@
 <h1 align="center">"Contributing to the world, one line of code at a time"</h1>
 
 
-<h3 align="center">Hey!👋</h3>
+<h2 align="center">Hey!👋</h2>
 <p align="center">
-  <a href="https://portfolio-moses.netlify.app/" target="_blank" rel="noopener">Visit my Portfolio Site</a>
+  <a href="https://portfolio-moses.netlify.app/" target="_blank" rel="noopener">My Portfolio Site</a>
 </p>
 <!--
 **moshe002/moshe002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
